@@ -38,5 +38,5 @@ For projects:
 1. Copy the colab and paste your link into the google sheet for your team
 2. Mark it as ready for review once you are done with it
 3. Correct the colab of the team you have to correct once they are done.
-
-
+- [Lecture Material](http://github.com/1_Kick_Off_Lecture.ipynb)
+- [Project Instruction](http://github.com/1_Kick_Off_Lecture.ipynb)
