@@ -71,3 +71,9 @@ We will show you a few libraries to visualize data and, in the meantime, we will
 - [Lecture Material](http://github.com/7_Storytelling_&_dashboards_Lecture.ipynb)
 - [Project Instruction: Rentals](http://github.com/7_Project_RENTALS.ipynb)
 - [Project Instruction: Checkars](http://github.com/7_Project_CHECKARS.ipynb)
+
+#### 8. Cleaning Data / Handling missing data
+- [Lecture Material](https://github.com/ReDI-School/nrw-data-analytics/blob/75f3e72ed2bac27d6c9a0dcaa11cb7172d0e22d8/8_Data_Cleaning_&_Missing_Values_Class.ipynb)
+- [Project Instruction](https://github.com/ReDI-School/nrw-data-analytics/blob/75f3e72ed2bac27d6c9a0dcaa11cb7172d0e22d8/8_Data_Cleaning_&_Missing_Values_Project.ipynb)
+- [Project: csv file](http://github.com/8_berlin_housing_with_scraped - berlin_housing_with_scraped.csv)
+- [Project: scraped cleaned.pkl](http://github.com/8_berlin_housing_with_scraped_class_cleaned.pkl)
