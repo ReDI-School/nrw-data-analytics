@@ -1,3 +1,5 @@
+http://github.com - automatic!
+
 # Data Analytics coure in ReDI School NRW
 
 ## What you learn
