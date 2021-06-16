@@ -1,4 +1,4 @@
-# nrw-data-analytics
+# Data Analytics coure in ReDI School NRW
 
 ## What you learn
 - Pandas and Data Analysis
