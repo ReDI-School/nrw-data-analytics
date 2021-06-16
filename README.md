@@ -75,5 +75,5 @@ We will show you a few libraries to visualize data and, in the meantime, we will
 #### 8. Cleaning Data / Handling missing data
 - [Lecture Material](https://github.com/ReDI-School/nrw-data-analytics/blob/75f3e72ed2bac27d6c9a0dcaa11cb7172d0e22d8/8_Data_Cleaning_&_Missing_Values_Class.ipynb)
 - [Project Instruction](https://github.com/ReDI-School/nrw-data-analytics/blob/75f3e72ed2bac27d6c9a0dcaa11cb7172d0e22d8/8_Data_Cleaning_&_Missing_Values_Project.ipynb)
-- [Project: csv file](http://github.com/8_berlin_housing_with_scraped - berlin_housing_with_scraped.csv)
+- [Project: csv file](https://github.com/ReDI-School/nrw-data-analytics/blob/41603cd6b957ba179f2cd53dd24b8040cd29f631/8_berlin_housing_with_scraped%20-%20berlin_housing_with_scraped.csv)
 - [Project: scraped cleaned.pkl](http://github.com/8_berlin_housing_with_scraped_class_cleaned.pkl)
