@@ -5,17 +5,18 @@
 - Data Visualization
 
 ## Learning process
-Lecture -> Project -> Review
+- Lecture -> Project -> Review
+- Each lesson takes place with one presenting teacher and one support teacher
 
 ## How do we conduct projects?
-- One project per week
+- One project per week (we have 9 modules for 24 lessons)
 - Two students per project, switching weekly
-- One support teacher
+- Teachers support students to conduct projects
 - Set of questions
 
 ## Peer review
 ### Why reviewing?
-- We at the ReDI School learn together and thrive together. 
+- We at the ReDI School students learn together and thrive together
 - Peer review is about giving feedback
 - Peer review is about understanding your peers’ code
 
