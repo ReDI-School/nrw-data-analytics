@@ -1,8 +1,8 @@
 # nrw-data-analytics
 
-##What you learn
-Pandas and Data Analysis
-Data Visualization
+## What you learn
+- Pandas and Data Analysis
+- Data Visualization
 
 ## Learning process
 Lecture -> Project -> Review
