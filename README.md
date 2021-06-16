@@ -58,5 +58,16 @@ In this session, we will work on filtering datasets and grouping according to va
 
 #### 5. Intro to Analytical Thinking and Plots
 We will show you a few libraries to visualize data and, in the meantime, we will start introducing you to the art of data analytics.
+- [Lecture Slides](http://github.com/5_Lecture Slides —Intro to Analytical Thinking & Plotting.pptx)
 - [Lecture Material](http://github.com/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
 - [Project Instruction](http://github.com/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
+
+#### 6. EDA
+- [Lecture Material](http://github.com/6_Lecture_More_Plots_and_intro_to_EDA.ipynb)
+- [Project Instruction: Rentals](http://github.com/6_EDA_&_Plotting_Project_RENTALS.ipynb)
+- [Project Instruction: Checkars](http://github.com/6_EDA_&_Plotting_Project_CHECKARS.ipynb)
+
+#### 7. Storytelling and dashboards
+- [Lecture Material](http://github.com/7_Storytelling_&_dashboards_Lecture.ipynb)
+- [Project Instruction: Rentals](http://github.com/7_Project_RENTALS.ipynb)
+- [Project Instruction: Checkars](http://github.com/7_Project_CHECKARS.ipynb)
