@@ -77,3 +77,9 @@ We will show you a few libraries to visualize data and, in the meantime, we will
 - [Project Instruction](https://github.com/ReDI-School/nrw-data-analytics/blob/75f3e72ed2bac27d6c9a0dcaa11cb7172d0e22d8/8_Data_Cleaning_&_Missing_Values_Project.ipynb)
 - [Project: csv file](https://github.com/ReDI-School/nrw-data-analytics/blob/41603cd6b957ba179f2cd53dd24b8040cd29f631/8_berlin_housing_with_scraped%20-%20berlin_housing_with_scraped.csv)
 - [Project: scraped cleaned.pkl](http://github.com/8_berlin_housing_with_scraped_class_cleaned.pkl)
+
+#### 9. EDA & Analytical Thinking
+- [Project Instruction](https://github.com/9_Stackoverflow_Analytical_Thinking.ipynb)
+- [Project: Readme](https://github.com/9_README_2020.txt)
+- [Project: SO Survey 2020](http://github.com/9_so_survey_2020.pdf)
+- [Project: Survey Results csv](https://github.com/ReDI-School/nrw-data-analytics/blob/755db0ff3ea7dd5befdfca3eaa8741b8ad996e50/9_survey_results_schema%20-%20survey_results_schema.csv)
