@@ -2,11 +2,6 @@
 
 ## What you learn
 - Pandas and Data Analysis
--- Kick-off
-For projects:
-1. Copy the colab and paste your link into the google sheet for your team
-2. Mark it as ready for review once you are done with it
-3. Correct the colab of the team you have to correct once they are done.
 - Data Visualization
 
 ## Learning process
@@ -35,4 +30,13 @@ Lecture -> Project -> Review
 - Team shares their screen and explains code and conclusions
 - Fill out the review section
 - Give them feedback on their code and conclusions.
+
+## Curriculum outline
+### Pandas and Data Analysis
+#### 1. Kick-off
+For projects:
+1. Copy the colab and paste your link into the google sheet for your team
+2. Mark it as ready for review once you are done with it
+3. Correct the colab of the team you have to correct once they are done.
+
 
