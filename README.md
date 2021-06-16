@@ -45,3 +45,18 @@ For projects:
 In this session, we will work on filtering datasets and grouping according to variables to get aggregated data.
 - [Lecture Material](http://github.com/2_Lecture_Intro_to_Pandas_[Filter_&_Groupby].ipynb)
 - [Project Instruction](http://github.com/2_Project_Intro_to_Pandas_[Filters_&_Groupby].ipynb)
+
+#### 3. Pandas Transformation
+- [Lecture Material](http://github.com/3_Pandas_Transformations_Lecture.ipynb)
+- [Project Instruction](http://github.com/3_Pandas_Transformations_Project.ipynb)
+
+#### 4. Data Structures
+- [Lecture Material](http://github.com/4_Data_Structures_Lecture.ipynb)
+- [Project Instruction](http://github.com/4_Data_Structures_Project.ipynb)
+
+### Visualization
+
+#### 5. Intro to Analytical Thinking and Plots
+We will show you a few libraries to visualize data and, in the meantime, we will start introducing you to the art of data analytics.
+- [Lecture Material](http://github.com/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
+- [Project Instruction](http://github.com/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
