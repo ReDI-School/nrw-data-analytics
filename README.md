@@ -20,7 +20,7 @@ Lecture -> Project -> Review
 - Peer review is about understanding your peers’ code
 
 ### How to review
-- Keep in mind:
+Keep in mind:
 - Be positive: We are here to learn and to thrive together
 - Peer review has take place while both groups are present
 - Give constructive feedback
