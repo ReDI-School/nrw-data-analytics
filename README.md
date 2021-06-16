@@ -39,4 +39,9 @@ For projects:
 2. Mark it as ready for review once you are done with it
 3. Correct the colab of the team you have to correct once they are done.
 - [Lecture Material](http://github.com/1_Kick_Off_Lecture.ipynb)
-- [Project Instruction](http://github.com/1_Kick_Off_Lecture.ipynb)
+- [Project Instruction](http://github.com/1_Kick_Off_Project.ipynb)
+
+#### 2. Intro to Pandas
+In this session, we will work on filtering datasets and grouping according to variables to get aggregated data.
+- [Lecture Material](http://github.com/2_Lecture_Intro_to_Pandas_[Filter_&_Groupby].ipynb)
+- [Project Instruction](http://github.com/2_Project_Intro_to_Pandas_[Filters_&_Groupby].ipynb)
