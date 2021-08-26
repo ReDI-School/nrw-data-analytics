@@ -12,7 +12,7 @@
 ## How do we conduct projects?
 - Students work either with the Google's [Colab](https://colab.research.google.com/) or the [JuperLab](https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-eoawtdbj/lab/tree/demo)
 - One project per week (we have 9 modules for 24 lessons)
-- Two students per project, switching weekly, organise it on the [spreadsheet](https://teams.microsoft.com/l/channel/19%3A2380d777cb6a488b91af39b8662bdff3%40thread.tacv2/tab%3A%3A2f4c235d-e7f5-46a1-bb72-ef7d5df02aa9?groupId=cfdbbdb4-674b-42b2-963a-2c1eaea9e1c7&tenantId=1c379a3a-481a-418c-8757-972127fcaa7f)
+- Two students per project, switching weekly, organise it on the [spreadsheet](https://docs.google.com/spreadsheets/d/19BwCGNIUWks-qOdsjNDo9BIoddVXo0Ps/edit?usp=sharing&ouid=104114812937905751764&rtpof=true&sd=true)
 - Teachers support students to conduct projects
 - Set of questions
 
