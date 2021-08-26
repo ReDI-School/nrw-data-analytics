@@ -38,7 +38,7 @@ Keep in mind:
 ### Pandas and Data Analysis
 #### 1. Kick-off
 For projects:
-1. Copy your Colab/JupiterLab link and paste it into the [spreadsheet](https://teams.microsoft.com/l/channel/19%3A2380d777cb6a488b91af39b8662bdff3%40thread.tacv2/tab%3A%3A2f4c235d-e7f5-46a1-bb72-ef7d5df02aa9?groupId=cfdbbdb4-674b-42b2-963a-2c1eaea9e1c7&tenantId=1c379a3a-481a-418c-8757-972127fcaa7f) for your team
+1. Copy your Colab/JupiterLab link and paste it into the [spreadsheet](https://docs.google.com/spreadsheets/d/19BwCGNIUWks-qOdsjNDo9BIoddVXo0Ps/edit?usp=sharing&ouid=104114812937905751764&rtpof=true&sd=true) for your team
 2. Mark it as ready for review once you are done with it
 3. Correct the Colab/JupiterLab of the team you have to correct once they are done.
 - [Lecture Material](/1_Kick_Off_Lecture.ipynb)
