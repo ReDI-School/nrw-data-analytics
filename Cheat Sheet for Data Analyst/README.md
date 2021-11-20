@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80" <img src="Images/image1.jpg"/>
+  <img width="500" <img src="Images/image1.jpg"/>
   <h1 align="center">Cheat Sheet for Data Analyst</h1>
 </p>
 
