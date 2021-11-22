@@ -24,6 +24,7 @@ This file is a summary of what was learned in Redi School. It covers most topics
 ## Roadmap
 
 * [X] Identify the most important topics in data analysis
-* [ ] A more detailed explanation of some important terms
-* [ ] Add images to illustrate how to visualize the data
+* [ ] More detailed explanations of some important terms
+* [ ] Add images to explain how to visualize the data
 * [ ] More clarification to determine the purpose of using any plot in any case of **Model Bucket**
+* [ ] Mention the data analyst responsibilities
