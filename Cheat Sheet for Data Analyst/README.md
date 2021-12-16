@@ -16,6 +16,7 @@ This file is a summary of what was learned in Redi School. It covers most topics
 * Explicit Indexes
 * Slicing and Subsetting
 * Visualizing the Data
+* Data Visualization using Seaborn
 * Missing Values
 * Important Defentions
 * Grouped Summary Statistics
