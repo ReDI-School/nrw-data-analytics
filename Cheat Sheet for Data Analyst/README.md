@@ -9,6 +9,7 @@ This file is a summary of what was learned in Redi School. It covers most topics
 
 ## Table of Contents
 
+* Python Toolbox
 * Import Packages and Libraries
 * Read the Dataset
 * Inspecting the Data Frame
