@@ -21,6 +21,7 @@ This file is a summary of what was learned in Redi School. It covers most topics
 * Import Packages and Libraries
 * Read the Dataset
 * Inspecting the Data Frame
+* Cleaning Data
 * Sort the Rows in the Data Frame
 * Explicit Indexes
 * Slicing and Subsetting
