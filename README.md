@@ -53,7 +53,7 @@ In this session, we will work on filtering datasets and grouping according to va
 - [Lecture Material](/3_1_Lecture_Intro_to_Pandas_[Filter_&_Groupby].ipynb)
 - [Project Instruction](/3_1_Project_Intro_to_Pandas_[Filters_&_Groupby].ipynb)
 
-#### 3-2. Pandas Transformation
+##### 3-2. Pandas Transformation
 - [Lecture Material](/3_2_Pandas_Transformations_Lecture.ipynb)
 - [Project Instruction](/3_2_Pandas_Transformations_Project.ipynb)
 
