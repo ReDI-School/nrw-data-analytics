@@ -35,7 +35,6 @@ Keep in mind:
 - Give them feedback on their code and conclusions.
 
 ## Curriculum outline
-### Pandas and Data Analysis
 #### 1. Kick-off
 For projects:
 1. Copy your Colab/JupiterLab link and paste it into the [spreadsheet](https://docs.google.com/spreadsheets/d/19BwCGNIUWks-qOdsjNDo9BIoddVXo0Ps/edit?usp=sharing&ouid=104114812937905751764&rtpof=true&sd=true) for your team
