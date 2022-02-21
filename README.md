@@ -44,14 +44,19 @@ For projects:
 - [Lecture Material](/1_Kick_Off_Lecture.ipynb)
 - [Project Instruction](/1_Kick_Off_Project.ipynb)
 
-#### 2. Intro to Pandas
-In this session, we will work on filtering datasets and grouping according to variables to get aggregated data.
-- [Lecture Material](/2_Lecture_Intro_to_Pandas_[Filter_&_Groupby].ipynb)
-- [Project Instruction](/2_Project_Intro_to_Pandas_[Filters_&_Groupby].ipynb)
+#### 2. Statistics
+- [Lecture Material](/2_Statistics.ipynb)
+- [Exercise](/2_Statistics.ipynb)
 
-#### 3. Pandas Transformation
-- [Lecture Material](/3_Pandas_Transformations_Lecture.ipynb)
-- [Project Instruction](/3_Pandas_Transformations_Project.ipynb)
+#### 3. Pandas
+##### 3-1. Intro to Pandas
+In this session, we will work on filtering datasets and grouping according to variables to get aggregated data.
+- [Lecture Material](/3_1_Lecture_Intro_to_Pandas_[Filter_&_Groupby].ipynb)
+- [Project Instruction](/3_1_Project_Intro_to_Pandas_[Filters_&_Groupby].ipynb)
+
+#### 3-2. Pandas Transformation
+- [Lecture Material](/3_2_Pandas_Transformations_Lecture.ipynb)
+- [Project Instruction](/3_2_Pandas_Transformations_Project.ipynb)
 
 #### 4. Data Structures
 - [Lecture Material](/4_Data_Structures_Lecture.ipynb)
