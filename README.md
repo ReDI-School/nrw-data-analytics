@@ -70,7 +70,7 @@ We will show you a few libraries to visualize data and, in the meantime, we will
 - [Project Instruction](/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
 
 #### 6. EDA
-- [Lecture Material](/6_Lecture_More_Plots_and_intro_to_EDA.ipynb)
+- [Lecture Material](https://github.com/ReDI-School/nrw-data-analytics/blob/main/6_Lecture_More_Plots_and_intro_to_EDA_edited.ipynb)
 - [Project Instruction: Rentals](/6_EDA_&_Plotting_Project_RENTALS.ipynb)
 - [Project Instruction: Checkars](/6_EDA_&_Plotting_Project_CHECKARS.ipynb)
 
