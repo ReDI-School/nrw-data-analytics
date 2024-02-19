@@ -66,7 +66,7 @@ In this session, we will work on filtering datasets and grouping according to va
 #### 5. Intro to Analytical Thinking and Plots on October 12th, 17th & 19th
 We will show you a few libraries to visualize data and, in the meantime, we will start introducing you to the art of data analytics.
 - [Lecture Slides](https://github.com/ReDI-School/nrw-data-analytics/blob/151f4008e78778a40af77039d465c33cc14a0148/5_Lecture%20Slides%20%E2%80%94Intro%20to%20Analytical%20Thinking%20&%20Plotting.pptx)
-- [Lecture Material](/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
+- [Lecture Material](/5_Lecture Notebook - Intro to Analytical Thinking & Plotting.ipynb)
 - [Project Instruction](/5_Lecture_—_Introduction_to_analytical_thinking.ipynb)
 
 #### 6. EDA
