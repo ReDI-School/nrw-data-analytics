@@ -50,7 +50,7 @@ For projects:
 #### 3. Pandas
 ##### 3-1. Intro to Pandas
 In this session, we will work on filtering datasets and grouping according to variables to get aggregated data.
-- [Lecture Material](/3_1_Lecture_Intro_to_Pandas_[Filter_&_Groupby].ipynb)
+- [Lecture Material](/3_1_Lecture_Intro_to_Pandas.ipynb)
 - [Project Instruction](/3_1_Project_Intro_to_Pandas_[Filters_&_Groupby].ipynb)
 
 ##### 3-2. Pandas Transformation
