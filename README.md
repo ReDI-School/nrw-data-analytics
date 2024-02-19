@@ -54,7 +54,7 @@ In this session, we will work on filtering datasets and grouping according to va
 - [Project Instruction](3_Pandas_Project.ipynb)
 
 ##### 3-2. Pandas Transformation
-- [Lecture Material](/3_2_Pandas_Transformations_Lecture.ipynb)
+- [Lecture Material](/3_2_Lecture_Pandas_Transformations.ipynb)
 - [Project Solution](/3_Pandas_Project_Solutions.ipynb)
 
 #### 4. Data Structures
