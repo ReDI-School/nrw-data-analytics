@@ -10,7 +10,7 @@
 - Each lesson takes place with one presenting teacher and one support teacher
 
 ## How do we conduct projects?
-- Students work either with the Google's [Colab](https://colab.research.google.com/) or the [JuperLab](https://hub.gke2.mybinder.org/user/jupyterlab-jupyterlab-demo-eoawtdbj/lab/tree/demo)
+- Students work either with the Google's [Colab](https://colab.research.google.com/) or the [JuperLab](https://jupyter.org/try)
 - One project per week (we have 9 modules for 24 lessons)
 - 3-4 students per group
 - Teachers support students to conduct projects
